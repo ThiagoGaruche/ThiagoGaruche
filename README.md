@@ -24,7 +24,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 - **Segurança da Informação:** Segurança em Redes, Criptografia (OTP, XOR, Chaves Públicas/Privadas), Segurança em Bancos de Dados.
 - **Sistemas Operacionais & Virtualização:** Kali Linux, Linux Mint, Windows Server/Desktop, VirtualBox.
