@@ -43,13 +43,5 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial" alt="Linguagens Mais Utilizadas" height="175"/>
-</div>
-
----
 
 💡 *Disponível para contacto e colaboração em projetos de Cibersegurança e Desenvolvimento!*
